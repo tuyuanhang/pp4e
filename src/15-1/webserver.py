@@ -18,6 +18,3 @@ serverobj = HTTPServer(serveraddr, CGIHTTPRequestHandler)
 serverobj.serve_forever()
 
 
-
-
-
